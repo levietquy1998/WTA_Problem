@@ -1,0 +1,2 @@
+- Hiện tại đang khởi tạo số lượng mục tiêu = số lượng vũ khí = n = 7
+- Để thay đổi n cần thay đổi trong 3 khối matlab function và trong mục model properties -> Init Fcn
